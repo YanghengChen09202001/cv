@@ -92,7 +92,7 @@ body, html {
 }
 
 .topBar {
-  background-image: url('/CSCI\ 4300\ personalCV/cv/Image/background.jpeg');
+  background-image: url('./image/background.jpeg');
   filter: blur(8px);
   -webkit-filter: blur(8px);
   height: 100%;
@@ -111,7 +111,7 @@ h1 {
 }
 
 .middle {
-  background-image: url('/CSCI\ 4300\ personalCV/cv/Image/topBar.jpeg');
+  background-image: url('./image/topBar.jpeg');
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -134,7 +134,7 @@ h3 {
 }
 
 .bot {
-  background-image: url('/CSCI\ 4300\ personalCV/cv/Image/middle.jpeg');
+  background-image: url('./image/middle.jpeg');
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
