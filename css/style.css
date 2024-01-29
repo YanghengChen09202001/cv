@@ -92,7 +92,7 @@ body, html {
 }
 
 .topBar {
-  background-image: url('/image/background.jpeg');
+  background-image: url('../image/background.jpeg');
   filter: blur(8px);
   -webkit-filter: blur(8px);
   height: 100%;
@@ -112,7 +112,7 @@ h1 {
 }
 
 .middle {
-  background-image: url('/image/topBar.jpeg');
+  background-image: url('../image/topBar.jpeg');
   height: 100%;
   width: 100vw;
   background-position: center;
@@ -136,7 +136,7 @@ h3 {
 }
 
 .bot {
-  background-image: url('/image/middle.jpeg');
+  background-image: url('../image/middle.jpeg');
   height: 100%;
   width: 100vw;
   background-position: center;
