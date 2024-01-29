@@ -96,6 +96,7 @@ body, html {
   filter: blur(8px);
   -webkit-filter: blur(8px);
   height: 100%;
+  width: 100vw;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -113,6 +114,7 @@ h1 {
 .middle {
   background-image: url('/image/topBar.jpeg');
   height: 100%;
+  width: 100vw;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -136,6 +138,7 @@ h3 {
 .bot {
   background-image: url('/image/middle.jpeg');
   height: 100%;
+  width: 100vw;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
